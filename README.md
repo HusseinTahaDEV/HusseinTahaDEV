@@ -22,9 +22,9 @@ I'm hardly working on my new project wait for the details soon.
 ---
 
 ## 📧 Find Me
-- [My Website](https://yourwebsite.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- [Instagram](https://instagram.com/hussaint30)
+- [LinkedIn](https://www.linkedin.com/in/hussein-taha)
+- [Twitter](https://twitter.com/hussein69555376)
 
 As it takes a lot of time to write and maintain tools, [sponsoring](https://github.com/sponsors/HusseinTahaDEV) is always appreciated! 
 
