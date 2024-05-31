@@ -5,7 +5,7 @@ Feel free to try my [scripts](https://github.com/HusseinTahaDEV) or update them 
 
 ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=python)
 ![PHP Badge](https://img.shields.io/badge/-PHP-purple?logo=php)
-![Bash Badge](https://img.shields.io/badge/-Bash-orange?logo=gnu-bash)
+![Bash Badge](https://img.shields.io/badge/-Bash-blue?logo=gnu-bash)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-red?logo=javascript)
 ![HTML Badge](https://img.shields.io/badge/-HTML-yellow?logo=html5)
 ![CSS Badge](https://img.shields.io/badge/-CSS-blue?logo=css3)
