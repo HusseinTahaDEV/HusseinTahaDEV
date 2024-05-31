@@ -1,14 +1,13 @@
 ## 👨‍💻 About Me
-Bug hunter 🐛, tool maker 🛠️, father 👨‍👧, climber 🧗‍♂️—I'm [Your Name](https://yourwebsite.com), and I'm all about coding and constantly learning new things.
+Bug hunter 🐛, tool maker 🛠️, father 👨‍👧, climber 🧗‍♂️—I'm [Hussein Taha](https://yourwebsite.com), and I'm all about coding and constantly learning new things.
 
-Feel free to try my [scripts](https://github.com/yourusername) or update them to fit your needs. And don't forget to check out some of my favorite one-liners!
+Feel free to try my [scripts](https://github.com/HusseinTahaDEV) or update them to fit your needs. And don't forget to check out some of my favorite one-liners!
 
 ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=python)
-![Go Badge](https://img.shields.io/badge/-Go-blue?logo=go)
 ![PHP Badge](https://img.shields.io/badge/-PHP-purple?logo=php)
 ![Bash Badge](https://img.shields.io/badge/-Bash-orange?logo=gnu-bash)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![HTML Badge](https://img.shields.io/badge/-HTML-red?logo=html5)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-red?logo=javascript)
+![HTML Badge](https://img.shields.io/badge/-HTML-yellow?logo=html5)
 ![CSS Badge](https://img.shields.io/badge/-CSS-blue?logo=css3)
 
 ---
@@ -36,8 +35,3 @@ As it takes a lot of time to write and maintain tools, [sponsoring](https://gith
 
 ![Sponsor Badge](https://img.shields.io/badge/-Sponsor-green?logo=github)
 
-
-<!---
-husseintaha04/husseintaha04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
