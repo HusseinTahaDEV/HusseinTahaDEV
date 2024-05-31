@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 Bug hunter 🐛, tool maker 🛠️, father 👨‍👧, climber 🧗‍♂️—I'm [Hussein Taha](https://github.com/HusseinTahaDEV), and I'm all about coding and constantly learning new things.
 
-Feel free to try my [scripts](https://github.com/HusseinTahaDEV) or update them to fit your needs. And don't forget to check out some of my favorite one-liners!
+Feel free to try my [scripts](https://github.com/HusseinTahaDEV?tab=repositories) or update them to fit your needs. And don't forget to check out some of my favorite one-liners!
 
 ![Python Badge](https://img.shields.io/badge/-Python-yellow?logo=python)
 ![PHP Badge](https://img.shields.io/badge/-PHP-purple?logo=php)
