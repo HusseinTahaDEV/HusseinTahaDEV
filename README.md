@@ -33,5 +33,6 @@ I'm hardly working on my new project: [OffSec Tools](https://offsec.tools). It's
 
 As it takes a lot of time to write and maintain tools, [sponsoring](https://github.com/sponsors/HusseinTahaDEV) is always appreciated! 
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=hittercodder/&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)]([YOUR_BUY_ME_A_COFFEE_URL_HERE](https://buymeacoffee.com/hittercodder/))
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=hittercodder/&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/hittercodder/)
+
 
