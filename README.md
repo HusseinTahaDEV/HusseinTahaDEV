@@ -18,8 +18,8 @@ I'm hardly working on my new project wait for the details soon.
 ---
 
 ## 🤩 My Favorite Projects
+- **[SafeCrypt](https://github.com/HusseinTahaDEV/Safecrypt)**:SafeCrypt is a professional-grade file encryption and decryption tool designed to provide maximum security and ease of use. 
 - **[facebook-login](https://github.com/HusseinTahaDEV/facebook-login)**: a tool for testing a bulk of facebook accounts if they are working automatically.
-- **[SafeCrypr](https://github.com/HusseinTahaDEV/Safecrypt)**:SafeCrypt is a professional-grade file encryption and decryption tool designed to provide maximum security and ease of use. 
 ---
 
 ## 📧 Find Me
