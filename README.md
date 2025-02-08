@@ -1,6 +1,5 @@
 ## 👨‍💻 About Me
 
-![Hussein Taha Headshot](https://via.placeholder.com/300x300.png?text=Your+Headshot)  
 *Hi, I'm Hussein!*
 
 a relentless bug hunter 🐛, innovative tool maker 🛠️, and an adventurous climber 🧗‍♂️ on a never-ending quest for knowledge. Passionate about coding, automation, and building practical solutions, I strive to transform complex challenges into elegant, real-world applications.
