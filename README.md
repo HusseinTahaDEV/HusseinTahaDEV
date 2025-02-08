@@ -1,9 +1,9 @@
 ## 👨‍💻 About Me
 
-I'm **Hussein Taha** – a relentless bug hunter 🐛, innovative tool maker 🛠️, and an adventurous climber 🧗‍♂️ on a never-ending quest for knowledge. Passionate about coding, automation, and building practical solutions, I strive to transform complex challenges into elegant, real-world applications.
-
 ![Hussein Taha Headshot](https://via.placeholder.com/300x300.png?text=Your+Headshot)  
 *Hi, I'm Hussein!*
+
+a relentless bug hunter 🐛, innovative tool maker 🛠️, and an adventurous climber 🧗‍♂️ on a never-ending quest for knowledge. Passionate about coding, automation, and building practical solutions, I strive to transform complex challenges into elegant, real-world applications.
 
 Welcome to my digital workshop, where every script is crafted with precision and every line of code brings us closer to innovation. You can explore my projects on [GitHub](https://github.com/HusseinTahaDEV) or visit my personal website at [hussein.top](https://hussein.top).
 
